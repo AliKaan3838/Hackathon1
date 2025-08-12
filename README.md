@@ -35,5 +35,3 @@ PR ve issue’lara açığım — özellikle UI/UX, mobil düzenlemeler ve AI fi
 ## Lisans
 MIT
 
-## İletişim
-E-posta: youremail@example.com
